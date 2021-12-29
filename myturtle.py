@@ -79,14 +79,22 @@ from turtle import *
 #             right(90)
 # square()
 '''ten code block'''
-shape('turtle')
-def star():
-    for i in range(5):
-        forward(100)
-        left(216)
-star()
+# shape('turtle')
+# def star():
+#     for i in range(5):
+#         forward(100)
+#         left(216)
+# star()
 
 
+# shape('turtle')
+# def starSpiral():
+#     length = 0
+#     for i in range(60):
+#         length += 5
+#         right(5)
+#         for j in range(5):
+#             forward(length)
+#             left(216)
+# starSpiral()
 
-def starSpiral():
-    pass
